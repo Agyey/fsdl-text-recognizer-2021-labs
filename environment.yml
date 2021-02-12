@@ -1,4 +1,4 @@
-name: fsdl-text-recognizer-2021
+name: fsdl
 channels:
   - defaults
 dependencies:
